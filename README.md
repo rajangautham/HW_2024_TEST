@@ -4,4 +4,4 @@ I am T S Gautham Rajan, 20BCE1484 from VIT Chennai Submitting my assignment give
 
 Check out the gameplay video on YouTube:
 
-[![Gameplay Video](https://github.com/rajangautham/HW_2024_TEST/blob/main/GameplayVideo.mp4)](https://github.com/rajangautham/HW_2024_TEST/blob/main/GameplayVideo.mp4)
+[![Gameplay Video](https://youtu.be/Xhz1ZQ2WejE)[(https://youtu.be/Xhz1ZQ2WejE).
