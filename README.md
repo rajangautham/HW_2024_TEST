@@ -4,4 +4,4 @@ I am T S Gautham Rajan, 20BCE1484 from VIT Chennai Submitting my assignment give
 
 Check out the gameplay video on YouTube:
 
-[![Gameplay Video](https://youtu.be/Xhz1ZQ2WejE)[(https://youtu.be/Xhz1ZQ2WejE).
+[![Gameplay Video](https://youtu.be/Xhz1ZQ2WejE)](https://youtu.be/Xhz1ZQ2WejE).
